@@ -1,0 +1,18 @@
+#pragma once
+
+enum SocketState{
+    SOCKET_STATE_UNINITIALIZED = 0,
+    SOCKET_STATE_INITIALIZED,
+    SOCKET_STATE_CONNECTING,
+    SOCKET_STATE_CONNECTED,
+    SOCKET_STATE_DISCONNECTED,
+    SOCKET_STATE_READABLE,
+    SOCKET_STATE_WRITABLE,
+    SOCKET_STATE_ERROR,
+    SOCKET_STATE_UNKNOWN
+};
+
+enum class ProtocolType {
+    TcpSocketManager,
+    UdpSocketManager
+};

@@ -1,0 +1,15 @@
+D:\repos\Socket.FTP\Client\bin\Debug\Client.exe.config
+D:\repos\Socket.FTP\Client\bin\Debug\Client.exe
+D:\repos\Socket.FTP\Client\bin\Debug\Client.pdb
+D:\repos\Socket.FTP\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\repos\Socket.FTP\Client\obj\Debug\MainWindow.g.cs
+D:\repos\Socket.FTP\Client\obj\Debug\App.g.cs
+D:\repos\Socket.FTP\Client\obj\Debug\Client_MarkupCompile.cache
+D:\repos\Socket.FTP\Client\obj\Debug\Client_MarkupCompile.lref
+D:\repos\Socket.FTP\Client\obj\Debug\MainWindow.baml
+D:\repos\Socket.FTP\Client\obj\Debug\Client.g.resources
+D:\repos\Socket.FTP\Client\obj\Debug\Client.Properties.Resources.resources
+D:\repos\Socket.FTP\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\repos\Socket.FTP\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\repos\Socket.FTP\Client\obj\Debug\Client.exe
+D:\repos\Socket.FTP\Client\obj\Debug\Client.pdb

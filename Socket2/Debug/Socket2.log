@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+D:\repos\Socket.FTP\Socket2\src\dllmain.cpp(30,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  SocketDispatcher.cpp
+D:\repos\Socket.FTP\Socket2\src\SocketDispatcher.cpp(52,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  TcpSocket.cpp
+D:\repos\Socket.FTP\Socket2\src\TcpSocket.cpp(141,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  UdpSocket.cpp
+D:\repos\Socket.FTP\Socket2\src\UdpSocket.cpp(1,1): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "pch.h"”?
+  正在生成代码...
